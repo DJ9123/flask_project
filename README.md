@@ -1,7 +1,7 @@
-## My first flask roject
+## My first flask project
 
-1. This is a project
-2. This is a Flask
+* Flask project for ACM: Practical Python
 
-Install addins: pipenv install flask-login
-Inside flask_project, run pipenv run python main.py
+Install addins: `pipenv install flask-login`
+
+Inside flask_project, run `pipenv run python main.py`
